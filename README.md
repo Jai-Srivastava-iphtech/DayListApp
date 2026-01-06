@@ -138,31 +138,6 @@ https://go.screenpal.com/watch/cOVh1enrlLg
 
 ---
 
-## Project Structure  
-
-- **Onboarding**  
-  Intro screen UI and logic  
-
-- **Sign In**  
-  Login UI and Firebase sign-in logic  
-
-- **Sign Up**  
-  Registration UI and Firebase sign-up logic  
-
-- **Today**  
-  Task list UI, models, and table view cells  
-
-- **Task Detail**  
-  Detailed task view and related UI  
-
-- **Utilities / Helpers**  
-  Shared helpers such as keyboard handling  
-
-- **Firebase Setup**  
-  Authentication configuration  
-
----
-
 ## Prerequisites  
 
 - Xcode **12.4** or later  
