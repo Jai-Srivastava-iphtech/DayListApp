@@ -128,9 +128,9 @@ This repository demonstrates a **real-world iOS app flow** including **Onboardin
 
 <div style="display: flex; flex-wrap: wrap; gap: 10px;">
 
-  <img width="250" src="https://github.com/user-attachments/assets/52b9fafa-1f2c-4308-a54c-22dd89a3a420" alt="Onboarding Screen" />
+  <img width="250" src="https://github.com/user-attachments/assets/7cb10a11-c347-4cf9-8c4c-7d1541a96663" alt="Onboarding Screen" />
 
-  <img width="250" src="https://github.com/user-attachments/assets/1c9d7b57-5d0d-40e5-9b2e-3c942a5b46f6" alt="Sign In Screen" />
+  <img width="250" src="https://github.com/user-attachments/assets/11ef5527-9ac9-4207-8305-4d250f657fc1" alt="Sign In Screen" />
 
   <img width="250" src="https://github.com/user-attachments/assets/3495c141-9b2f-4d21-b8f5-47f530a8fec5" alt="Sign Up Screen" />
 
