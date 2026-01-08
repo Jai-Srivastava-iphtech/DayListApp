@@ -39,6 +39,17 @@ This repository demonstrates a **real-world iOS app flow** including **Onboardin
 
 ---
 
+### Authentication & Validation  
+
+- Username, email, and password validation integrated into the sign up flow  
+- Email validated against a proper email format to avoid invalid registrations  
+- Username checked for minimum length and allowed characters to keep identities consistent  
+- Password validated for minimum length and basic strength requirements  
+- Password confirmation field ensures both password entries match before account creation  
+- Clear inline error messages shown for invalid inputs to guide the user to fix issues quickly  
+
+---
+
 ### Sign Up Screen  
 
 - User registration using **Email & Password**  
@@ -146,27 +157,27 @@ https://go.screenpal.com/watch/cOVjlwnrZHe
 
 ---
 
-## Installation  
+## License  
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/Jai-Srivastava-iphtech/DayListApp.git
-Open DayListApp.xcodeproj (or .xcworkspace if using CocoaPods) in Xcode
+This project is created for **learning and portfolio purposes**.  
 
-Add your GoogleService-Info.plist file to the project
+---
 
-Run the project on a simulator or real device
+## Contributing  
 
-License
-This project is created for learning and portfolio purposes.
+Contributions are welcome.  
+Feel free to submit an issue or create a pull request for improvements.  
 
-Contributing
-Contributions are welcome.
-Feel free to submit an issue or create a pull request for improvements.
+---
 
-Support
-If you encounter any issues or have questions, please open an issue in the repository.
+## Support  
 
-Acknowledgements
-Thanks to the Apple Developer Documentation and Firebase Documentation,
+If you encounter any issues or have questions, please open an issue in the repository.  
+
+---
+
+## Acknowledgements  
+
+Thanks to the **Apple Developer Documentation** and **Firebase Documentation**,  
 which greatly helped during the development of this project.
+
