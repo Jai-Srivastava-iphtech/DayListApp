@@ -21,7 +21,7 @@ This repository demonstrates a **real-world iOS app flow** including **Onboardin
   Account creation using email and password  
 
 - **Today Screen (Task List)**  
-  Displays the user’s daily tasks in a clean list  
+  Displays the user's daily tasks in a clean list  
 
 - **Task Detail Screen**  
   Displays detailed information about a selected task  
@@ -121,7 +121,7 @@ This repository demonstrates a **real-world iOS app flow** including **Onboardin
 
   <img width="250" src="https://github.com/user-attachments/assets/1c9d7b57-5d0d-40e5-9b2e-3c942a5b46f6" alt="Sign In Screen" />
 
-  <img width="250" src="https://github.com/user-attachments/assets/a5965370-0b07-4f89-b289-e9e4e352f35b" alt="Sign Up Screen" />
+  <img width="250" src="https://github.com/user-attachments/assets/3495c141-9b2f-4d21-b8f5-47f530a8fec5" alt="Sign Up Screen" />
 
   <img width="250" src="https://github.com/user-attachments/assets/fbfecc8a-3b42-450c-a09e-43bdab49cdfc" alt="Today Task List Screen" />
 
@@ -134,7 +134,7 @@ This repository demonstrates a **real-world iOS app flow** including **Onboardin
 ## Demo Video  
 
 🎬 **Watch Full Demo**  
-https://go.screenpal.com/watch/cOV1XknrbFj 
+https://go.screenpal.com/watch/cOVjlwnrZHe  
 
 ---
 
@@ -148,33 +148,25 @@ https://go.screenpal.com/watch/cOV1XknrbFj
 
 ## Installation  
 
-1. Clone the repository  
-2. Open the project in Xcode  
-3. Add your `GoogleService-Info.plist` file  
-4. Run the project on a simulator or real device  
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/Jai-Srivastava-iphtech/DayListApp.git
+Open DayListApp.xcodeproj (or .xcworkspace if using CocoaPods) in Xcode
 
----
+Add your GoogleService-Info.plist file to the project
 
-## License  
+Run the project on a simulator or real device
 
-This project is created for **learning and portfolio purposes**.
+License
+This project is created for learning and portfolio purposes.
 
----
-
-## Contributing  
-
-Contributions are welcome.  
+Contributing
+Contributions are welcome.
 Feel free to submit an issue or create a pull request for improvements.
 
----
+Support
+If you encounter any issues or have questions, please open an issue in the repository.
 
-## Support  
-
-If you encounter any issues or have questions, please contact the project maintainer.
-
----
-
-## Acknowledgements  
-
-Thanks to the **Apple Developer Documentation** and **Firebase Documentation**,  
+Acknowledgements
+Thanks to the Apple Developer Documentation and Firebase Documentation,
 which greatly helped during the development of this project.
