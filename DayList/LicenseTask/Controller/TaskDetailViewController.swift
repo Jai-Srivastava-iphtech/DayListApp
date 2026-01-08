@@ -29,12 +29,12 @@ class TaskDetailViewController: UIViewController, UITextFieldDelegate {
     
     private func styleButtons() {
         // Style list button
-        listButton.layer.borderWidth = 1.5
+        listButton.layer.borderWidth = 1
         listButton.layer.borderColor = UIColor.systemGray3.cgColor
         listButton.layer.cornerRadius = 8.0
         
         // Style due date button
-        dueDateButton.layer.borderWidth = 1.5
+        dueDateButton.layer.borderWidth = 1
         dueDateButton.layer.borderColor = UIColor.systemGray3.cgColor
         dueDateButton.layer.cornerRadius = 8.0
     }
